@@ -1,0 +1,4 @@
+ro.linic.cloud.resource.server.starter.config.MultitenantConfiguration
+ro.linic.cloud.resource.server.starter.config.DefaultBeanConfig
+ro.linic.cloud.resource.server.starter.config.DefaultSecurityConfig
+ro.linic.cloud.resource.server.starter.controller.AuditController
